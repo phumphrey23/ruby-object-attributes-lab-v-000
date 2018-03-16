@@ -8,4 +8,12 @@ def name=(fido)
     @name
   end
 
+  def breed=(beagle)
+      @breed = beagle
+    end
+
+    def breed
+      @breed
+    end
+
 end
