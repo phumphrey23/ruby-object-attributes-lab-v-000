@@ -7,7 +7,7 @@ class Dog
     @name
   end
 
-  def intan(breed)
+  def initialize(breed)
     @breed = breed
   end
 
